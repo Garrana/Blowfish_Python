@@ -1,8 +1,10 @@
+# Python implementation for Blowfish encryption algorithm
+
 This Repository includes information on Blowfish encyprtion Algorithm and code implementation using Python programming Language.
 
 the work is prepared by Ayman Yehia, Mohammed Garrana and Ahmed Mohamed Raafat Under supervision of DR. Bahaa Hassan 05-12-2009
 
-Table of content :
+## Table of content :
 
 1- Crypto-Presenation.pptx : A powerpoint presenation covering 
  basic conceptrs in cryptography
@@ -21,7 +23,7 @@ The code is based on an open source code written by Michael Gilfix  (C) 2002
 The Code written by Michael Gilfix has a limitation of 64 bit ( 8 byte ) input to be encrypted . 2 new functions we added ( en and den functions ) , to support unlimited number of bytes as an input to cipher and unlimited cipher to decrypt.
  
  
- References : 
+ ## References : 
  1.	http://www.finecrypt.net/blowfish.html
 2.	http://www.schneier.com/paper-blowfish-fse.html
 3.	 http://www.schneier.com/blowfish-bug.txt
