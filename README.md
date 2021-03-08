@@ -7,7 +7,7 @@
 
 
 
-CIT‐621 Crypto Protocols & Network Security
+Crypto Protocols & Network Security
 BlowFish encryption algorithm
 
 Prepared by 
