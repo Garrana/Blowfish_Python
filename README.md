@@ -319,6 +319,9 @@ The key is a string of length anywhere between 64 and 448 bits, or
 equivalently 8 and 56 bytes. The encryption and decryption functions operate
 on 64-bit blocks, or 8 byte strings.
 
+
+
+```  
 """
 
 class Blowfish:
@@ -900,6 +903,7 @@ if __name__ == '__main__':
  
  
  
+```  
  
  
  
