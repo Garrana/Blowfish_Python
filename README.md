@@ -1,8 +1,8 @@
-This Repository includes information on Blowfish encyprtion Algorithm and a code implementation using Python programming Language, addition of two special functions to allow unlimited input to the cipher function, Blowfish Crypto analysis and Blowfish Application in the real life. 
+This Repository includes information on Blowfish encyprtion Algorithm and code implementation using Python programming Language.
 
 the work is prepared by Ayman Yehia, Mohammed Garrana and Ahmed Mohamed Raafat Under supervision of DR. Bahaa Hassan 05-12-2009
 
-Table of content 
+Table of content :
 
 1- Crypto-Presenation.pptx : A powerpoint presenation covering 
  basic conceptrs in cryptography
@@ -11,16 +11,13 @@ Table of content
  Crypto analysis of blowfish 
  
  2- Documentaion.doc : A word document covering in details 
- 
-  basic conceptrs in cryptography
+ basic conceptrs in cryptography
  blowfish encryption in details
  Implementation of blowfish using python
  Crypto analysis of blowfish 
   
  3- BlowFish_python.py  : Python code implemetation for Blowfish encryption algorithm
- 
-The code is written as an object oriented code.
-Code is based on an open source code written by Michael Gilfix  (C) 2002 
+The code is based on an open source code written by Michael Gilfix  (C) 2002 
 The Code written by Michael Gilfix has a limitation of 64 bit ( 8 byte ) input to be encrypted . 2 new functions we added ( en and den functions ) , to support unlimited number of bytes as an input to cipher and unlimited cipher to decrypt.
  
  
