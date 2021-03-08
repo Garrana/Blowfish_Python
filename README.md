@@ -1,4 +1,4 @@
-This Repository describes  “Blowfish “Algorithm in details , code implementation using Python programming Language, addition of two special functions to allow unlimited input to the cipher function, Blowfish Crypto analysis and Blowfish Application in the real life. 
+This Repository includes information on Blowfish encyprtion Algorithm and a code implementation using Python programming Language, addition of two special functions to allow unlimited input to the cipher function, Blowfish Crypto analysis and Blowfish Application in the real life. 
 
 the work is prepared by Ayman Yehia, Mohammed Garrana and Ahmed Mohamed Raafat Under supervision of DR. Bahaa Hassan 05-12-2009
 
