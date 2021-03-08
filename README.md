@@ -1,4 +1,4 @@
-# Python implementation for Blowfish encryption algorithm
+# Python implementation of Blowfish encryption algorithm
 
 This Repository includes information on Blowfish encyprtion Algorithm and code implementation using Python programming Language.
 
